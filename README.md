@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# 2017毕业设计 #
+    5/4/2017 11:01:40 AM 孙暘
 
-You can use the [editor on GitHub](https://github.com/SunnySun11/-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+李永强 《某学校网络集成规划设计方案》
+    
+    建议与要求：1 完成3000-5000（中文）字专业文献翻译。
+    
+                 英文格式不限，中文按专业论文格式排版。
+    
+               2 参考成型的方案，提出论文相关知识点。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+吴猷珍《基于云计算的网络安全态势预测规则挖掘算法研究与实现》
 
-### Markdown
+    建议与要求：1 完成3000-5000（中文）字专业文献翻译。
+    
+                 英文格式不限，中文按专业论文格式排版。
+              
+               2 学习云计算技术理论，
+                  
+                 查找网络安全态势预测相关资料，
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+                 学习数据挖掘算法。
 
-```markdown
-Syntax highlighted code block
+               3 建立论文结构。
 
-# Header 1
-## Header 2
-### Header 3
+吕牧原《基于云计算的长春市人民大街畅通工程的研究与实现》
 
-- Bulleted
-- List
+                1 完成3000-5000（中文）字专业文献翻译。
+    
+                  英文格式不限，中文按专业论文格式排版。
 
-1. Numbered
-2. List
+                2 学习云计算技术理论，
+ 
+                  学习交通调流算法，
 
-**Bold** and _Italic_ and `Code` text
+                  学习信号灯调度算法，
+          
+                  学习交通流量预测算法
 
-[Link](url) and ![Image](src)
-```
+                3  建立论文结构。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SunnySun11/-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    
